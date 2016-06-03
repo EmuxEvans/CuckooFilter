@@ -1,6 +1,8 @@
 Cuckoo Filter
 =============
 
+(Coolcode Blog)[http://coolshell.cn/articles/17225.html)
+
 A key-value filter using cuckoo hashing, substituting for bloom filter.
 
 Usage
